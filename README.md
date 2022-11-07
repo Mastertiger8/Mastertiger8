@@ -2,8 +2,8 @@
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mastertiger8.joysors@gmail.com
-     Instagram: @joysors_developers
+- 📫 How to reach me t.me/escludere
+     Instagram: @userpericoloso
 
 <!---
 Mastertiger8/Mastertiger8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
